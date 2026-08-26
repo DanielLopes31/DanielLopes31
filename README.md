@@ -8,11 +8,11 @@
 
 ### 🎓 Sobre mim
 
-- 🔭 Atualmente estudando **[Engenharia de Software]**
-- 🌱 Aprendendo **[Java]**
-- 🎯 Meta atual: **[Conseguir um bom estágio]**
-- ⚡ Fato curioso: **[Sou músico]**
-- 💬 Pergunte-me sobre: **[Aquários]**
+- 🔭 Atualmente estudando **[seu curso/área, ex: Ciência da Computação]**
+- 🌱 Aprendendo **[tecnologia que está estudando agora]**
+- 🎯 Meta atual: **[ex: terminar meu primeiro projeto completo]**
+- ⚡ Fato curioso: **[algo divertido sobre você]**
+- 💬 Pergunte-me sobre: **[assunto que você domina ou gosta]**
 
 > "Ainda não sei tudo, mas já sei procurar no Stack Overflow com estilo." 😎
 
@@ -41,22 +41,21 @@
 
 ---
 
-### 🐍 Minha cobrinha come minhas contribuições
+### 🐉 Meu dragão devora minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/output/github-contribution-grid-snake.svg" alt="Cobrinha animada comendo o gráfico de contribuições" />
+  <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/output/github-contribution-grid-snake.svg" alt="Animação em tons de fogo devorando o gráfico de contribuições" />
 </p>
 
-> ⚙️ Essa imagem só aparece depois de configurar o GitHub Action abaixo — veja o passo a passo que te mandei junto com este README.
+> ⚙️ Essa imagem só aparece depois de configurar o GitHub Action abaixo — veja o passo a passo que te mandei junto com este README. As cores foram trocadas para tons de laranja e vermelho pra dar aquela vibe de dragão cuspindo fogo 🔥
 
 ---
 
 ### 🎮 Quando não estou codando...
 
-- 🎧 Ouvindo **Rock**
-- 🎮 Jogando **Rocket League**
+- 🎧 Ouvindo **Música**
+- 🎮 Jogando **Jogos**
 - ☕ Tomando muito **café / chá / energético**
-- 📚 Lendo sobre **Desenhos Ocultos**
 
 ---
 
