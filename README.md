@@ -8,11 +8,11 @@
 
 ### 🎓 Sobre mim
 
-- 🔭 Atualmente estudando **[seu curso/área, ex: Ciência da Computação]**
-- 🌱 Aprendendo **[tecnologia que está estudando agora]**
-- 🎯 Meta atual: **[ex: terminar meu primeiro projeto completo]**
-- ⚡ Fato curioso: **[algo divertido sobre você]**
-- 💬 Pergunte-me sobre: **[assunto que você domina ou gosta]**
+- 🔭 Atualmente estudando **[Engenharia de Software]**
+- 🌱 Aprendendo **[Java]**
+- 🎯 Meta atual: **[Conseguir um bom estágio]**
+- ⚡ Fato curioso: **[Sou músico]**
+- 💬 Pergunte-me sobre: **[Aquários]**
 
 > "Ainda não sei tudo, mas já sei procurar no Stack Overflow com estilo." 😎
 
