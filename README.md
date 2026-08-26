@@ -33,9 +33,6 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielLopes31&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielLopes31&theme=radical" alt="GitHub Streak" />
 </p>
 
