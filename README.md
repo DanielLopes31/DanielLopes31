@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
 
 ---
 
@@ -38,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/output/github-contribution-grid-snake.svg" alt="Animação em tons de fogo devorando o gráfico de contribuições" />
 </p>
 
-> ⚙️ Essa imagem só aparece depois de configurar o GitHub Action correspondente — veja o passo a passo que te mandei junto com este README. As cores foram trocadas para tons de laranja e vermelho pra dar aquela vibe de dragão cuspindo fogo 🔥
 
 ---
 
