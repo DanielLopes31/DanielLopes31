@@ -30,13 +30,6 @@
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/main/assets/metrics.svg" alt="Estatísticas do GitHub" />
-</p>
-
-
 ---
 
 ### 🐉 Meu dragão devora minhas contribuições
