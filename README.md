@@ -1,7 +1,9 @@
 <h1 align="center">Olá, mundo! 👋 Eu sou o Daniel Lopes 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Estudante+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%8C%B1;Aprendendo+algo+novo+todo+dia+%F0%9F%92%A1;Errando+c%C3%B3digo%2C+aprendendo+e+rindo+disso+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Estudante+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%8C%B1;Aprendendo+algo+novo+todo+dia+%F0%9F%92%A1;
+    Errando+c%C3%B3digo%2C+aprendendo+e+rindo+disso+%F0%9F%98%84" 
+    alt="Typing SVG" />
 </p>
 
 ---
