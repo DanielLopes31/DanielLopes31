@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/main/assets/metrics.svg" alt="Estatísticas do GitHub" />
 </p>
 
-> ⚙️ Essa imagem é gerada automaticamente pelo GitHub Action `metrics.yml` (veja o passo a passo que te mandei) — atualiza sozinha todo dia e não depende de nenhum serviço externo, então não quebra mais.
 
 ---
 
