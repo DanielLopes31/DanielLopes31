@@ -14,6 +14,8 @@
 - ⚡ Fato curioso: **[sou músico]**
 - 💬 Pergunte-me sobre: **[aquários]**
 
+> "Ainda não sei tudo, mas já sei procurar no Stack Overflow com estilo." 😎
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -31,17 +33,10 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielLopes31&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLopes31&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/main/assets/metrics.svg" alt="Estatísticas do GitHub" />
 </p>
 
----
-
-### 🏆 Minhas conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielLopes31&theme=algolia&no-frame=true&margin-w=10&row=1" alt="Troféus do GitHub" />
-</p>
+> ⚙️ Essa imagem é gerada automaticamente pelo GitHub Action `metrics.yml` (veja o passo a passo que te mandei) — atualiza sozinha todo dia e não depende de nenhum serviço externo, então não quebra mais.
 
 ---
 
@@ -51,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/DanielLopes31/DanielLopes31/output/github-contribution-grid-snake.svg" alt="Animação em tons de fogo devorando o gráfico de contribuições" />
 </p>
 
-> ⚙️ Essa imagem só aparece depois de configurar o GitHub Action abaixo — veja o passo a passo que te mandei junto com este README. As cores foram trocadas para tons de laranja e vermelho pra dar aquela vibe de dragão cuspindo fogo 🔥
+> ⚙️ Essa imagem só aparece depois de configurar o GitHub Action correspondente — veja o passo a passo que te mandei junto com este README. As cores foram trocadas para tons de laranja e vermelho pra dar aquela vibe de dragão cuspindo fogo 🔥
 
 ---
 
