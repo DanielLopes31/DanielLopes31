@@ -8,7 +8,7 @@ Engenharia de Software · São Paulo, Brasil
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lopes-364b663a1/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=maildotru&logoColor=white)](mailto:danielsobrera10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielLopes31)
 
